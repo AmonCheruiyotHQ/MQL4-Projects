@@ -46,7 +46,7 @@ We welcome contributions to this repository! If you have MQL4 projects or script
 
 ## License
 
-This repository and its contents are typically distributed under an open-source license, such as the MIT License. However, please check the specific license details provided in each project's folder, as some projects may have different licensing terms.
+This project and its code are licensed under the MIT License, allowing you to freely use, modify, and distribute the code for educational and personal purposes.
 
 ## Contact
 
